@@ -1,0 +1,1213 @@
+[
+        {
+            "id": "1",
+            "question": "Tropical moist forests do not include which of the following?",
+            "options": [
+                "Broadleaved forests",
+                "Wet evergreen forests",
+                "Semi-evergreen forests",
+                "Moist deciduous forests"
+            ],
+            "answer": "Broadleaved forests"
+        },
+        {
+            "id": "2",
+            "question": "Which of these is not a use value?",
+            "options": [
+                "Direct value",
+                "Indirect value",
+                "Option value",
+                "Existence value"
+            ],
+            "answer": "Existence value"
+        },
+        {
+            "id": "3",
+            "question": "The value derived from the knowledge of use of resources by others in the current generation is called",
+            "options": [
+                "Altruistic value",
+                "Bequest value",
+                "Existence value",
+                "Option value"
+            ],
+            "answer": "Altruistic value"
+        },
+        {
+            "id": "4",
+            "question": "Montane sub-tropical forests do not involve which of the following?",
+            "options": [
+                "Broadleaved forests",
+                "Pine forests",
+                "Semi-evergreen forests",
+                "Dry evergreen forests"
+            ],
+            "answer": "Semi-evergreen forests"
+        },
+        {
+            "id": "5",
+            "question": "\"Plant community, predominantly comprised of trees and other woody vegetation, usually with a closed canopy\" is",
+            "options": [
+                "Silviculture definition of forests",
+                "FAO definition of forests",
+                "Legal definition of forests",
+                "Ecological definition of forests"
+            ],
+            "answer": "Ecological definition of forests"
+        },
+        {
+            "id": "6",
+            "question": "Which of these is not a consumptive value?",
+            "options": [
+                "Timber",
+                "Firewood",
+                "Non-timber forest products",
+                "Education"
+            ],
+            "answer": "Education"
+        },
+        {
+            "id": "7",
+            "question": "The term 'forest' originates from",
+            "options": [
+                "Latin foris meaning outside",
+                "Greek foris meaning outside",
+                "Latin foris meaning trees",
+                "Greek foris meaning trees"
+            ],
+            "answer": "Latin foris meaning outside"
+        },
+        {
+            "id": "8",
+            "question": "The value of leaving use and non-use values for offspring's or future generation is called",
+            "options": [
+                "Altruistic value",
+                "Bequest value",
+                "Existence value",
+                "Option value"
+            ],
+            "answer": "Bequest value"
+        },
+        {
+            "id": "9",
+            "question": "Which of these is not a forest type found in India?",
+            "options": [
+                "Mediterranean dry",
+                "Tropical dry",
+                "Montane temperate",
+                "Alpine"
+            ],
+            "answer": "Mediterranean dry"
+        },
+        {
+            "id": "10",
+            "question": "According to the Supreme Court, the term 'forest land' includes",
+            "options": [
+                "Some area recorded as forest in the government record according to ownership",
+                "Any area recorded as forest in the government record according to ownership",
+                "Some area recorded as forest in the government record irrespective of ownership",
+                "Any area recorded as forest in the government record irrespective of ownership"
+            ],
+            "answer": "Any area recorded as forest in the government record irrespective of ownership"
+        },
+        {
+            "id": "11",
+            "question": "In the context of plant nutrition, boron is",
+            "options": [
+                "macronutrient",
+                "micronutrient",
+                "primary nutrient",
+                "secondary nutrient"
+            ],
+            "answer": "micronutrient"
+        },
+        {
+            "id": "12",
+            "question": "The art and science of cultivating forest crops is called",
+            "options": [
+                "foresticulture",
+                "monoculture",
+                "silviculture",
+                "silvics"
+            ],
+            "answer": "silviculture"
+        },
+        {
+            "id": "13",
+            "question": "The climax near Tindi village is being controlled by disturbance by cattle. This is an example of",
+            "options": [
+                "climatic climax",
+                "edaphic climax",
+                "disclimax",
+                "catastrophic climax"
+            ],
+            "answer": "disclimax"
+        },
+        {
+            "id": "14",
+            "question": "Which of these is not a characteristic of pioneer species?",
+            "options": [
+                "ability to grow on bare rocks",
+                "ability to tolerate extreme temperatures",
+                "large size",
+                "short lifespan"
+            ],
+            "answer": "large size"
+        },
+        {
+            "id": "15",
+            "question": "Which of these depicts correctly the lithosere primary succession?",
+            "options": [
+                "rock --> crustose lichen --> foliose lichen --> moss --> herbaceous stage --> shrub --> woodland --> climax",
+                "rock --> foliose lichen --> crustose lichen --> moss --> herbaceous stage --> shrub --> woodland --> climax",
+                "moss --> crustose lichen --> foliose lichen --> rock --> herbaceous stage --> shrub --> woodland --> climax"
+            ],
+            "answer": "rock --> crustose lichen --> foliose lichen --> moss --> herbaceous stage --> shrub --> woodland --> climax"
+        },
+        {
+            "id": "16",
+            "question": "The study of life history/general features of forest crops with respect to environmental factors is called",
+            "options": [
+                "foresticulture",
+                "monoculture",
+                "silviculture",
+                "silvics"
+            ],
+            "answer": "silvics"
+        },
+        {
+            "id": "17",
+            "question": "Net primary productivity is given by",
+            "options": [
+                "APAR + LUE",
+                "APAR × LUE",
+                "APAR - LUE",
+                "APAR ÷ LUE"
+            ],
+            "answer": "APAR × LUE"
+        },
+        {
+            "id": "18",
+            "question": "A climax caused by wildfires is an example of",
+            "options": [
+                "climatic climax",
+                "edaphic climax",
+                "disclimax",
+                "catastrophic climax"
+            ],
+            "answer": "catastrophic climax"
+        },
+        {
+            "id": "19",
+            "question": "Practical application of scientific, technical, and economic principles of forestry comes under which branch of forestry?",
+            "options": [
+                "forest management",
+                "forest economics",
+                "forest mensuration",
+                "forest protection"
+            ],
+            "answer": "forest management"
+        },
+        {
+            "id": "20",
+            "question": "Which of these is an abiotic factor?",
+            "options": [
+                "vines",
+                "trees",
+                "reptiles",
+                "water"
+            ],
+            "answer": "water"
+        },
+        {
+            "id": "21",
+            "question": "Regur is a term for",
+            "options": [
+                "black cotton soil",
+                "alluvial soil",
+                "saline soil",
+                "red and yellow soil"
+            ],
+            "answer": "black cotton soil"
+        },
+        {
+            "id": "22",
+            "question": "Carbonation is an example of",
+            "options": [
+                "chemical weathering",
+                "physical weathering",
+                "biological weathering",
+                "none of these"
+            ],
+            "answer": "chemical weathering"
+        },
+        {
+            "id": "23",
+            "question": "Banger is a type of",
+            "options": [
+                "black cotton soil",
+                "alluvial soil",
+                "saline soil",
+                "red and yellow soil"
+            ],
+            "answer": "alluvial soil"
+        },
+        {
+            "id": "24",
+            "question": "Cryofracturing is an example of",
+            "options": [
+                "chemical weathering",
+                "physical weathering",
+                "biological weathering",
+                "none of these"
+            ],
+            "answer": "physical weathering"
+        },
+        {
+            "id": "25",
+            "question": "In soil profile, C refers to",
+            "options": [
+                "organic surface layer",
+                "topsoil layer",
+                "subsoil layer",
+                "substratum layer"
+            ],
+            "answer": "substratum layer"
+        },
+        {
+            "id": "26",
+            "question": "Vertical arrangement of soil horizon is called",
+            "options": [
+                "soil texture",
+                "soil structure",
+                "soil profile",
+                "soil science"
+            ],
+            "answer": "soil profile"
+        },
+        {
+            "id": "27",
+            "question": "Thermal stresses lead to",
+            "options": [
+                "chemical weathering",
+                "physical weathering",
+                "biological weathering",
+                "none of these"
+            ],
+            "answer": "physical weathering"
+        },
+        {
+            "id": "28",
+            "question": "Khadar is a type of",
+            "options": [
+                "black cotton soil",
+                "alluvial soil",
+                "saline soil",
+                "red and yellow soil"
+            ],
+            "answer": "alluvial soil"
+        },
+        {
+            "id": "29",
+            "question": "Hydrolysis is an example of",
+            "options": [
+                "chemical weathering",
+                "physical weathering",
+                "biological weathering",
+                "none of these"
+            ],
+            "answer": "chemical weathering"
+        },
+        {
+            "id": "30",
+            "question": "Which of these has the highest organic matter content?",
+            "options": [
+                "peaty soil",
+                "alluvial soil",
+                "saline soil",
+                "red and yellow soil"
+            ],
+            "answer": "peaty soil"
+        },
+        {
+            "id": "31",
+            "question": "Measurement of height based on similar triangles comes under",
+            "options": [
+                "similar measurement",
+                "dissimilar measurement",
+                "direct measurement",
+                "indirect measurement"
+            ],
+            "answer": "indirect measurement"
+        },
+        {
+            "id": "32",
+            "question": "For normal form factor, the reference of the base of the cylinder is",
+            "options": [
+                "base of the tree",
+                "breast height",
+                "10% of tree height",
+                "20% of tree height"
+            ],
+            "answer": "10% of tree height"
+        },
+        {
+            "id": "33",
+            "question": "In a triangle, the angle between base and hypotenuse, theta= 60 degree and the hypotenuse c = 2cm. Find the length of the base b",
+            "options": [
+                "0.33",
+                "0.5",
+                "0.75",
+                "1"
+            ],
+            "answer": "1"
+        },
+        {
+            "id": "34",
+            "question": "3 trees are located in a sample plot of 15m X 15m. Their dbh are as follows: dbh= 25cm, 30cm, 35cm. Find the stand basal area in sq m per Ha",
+            "options": [
+                "9.6",
+                "14.6",
+                "21.6",
+                "27.6"
+            ],
+            "answer": "9.6"
+        },
+        {
+            "id": "35",
+            "question": "Consider a stand of eucalyptus, trees that are on average 30cm in diameter and spaced on a regular 3m grid. Find the spacing factor",
+            "options": [
+                "5",
+                "10",
+                "15",
+                "Data insufficient"
+            ],
+            "answer": "10"
+        },
+        {
+            "id": "36",
+            "question": "For a tree with dbh= 45.6cm, height= 27m and total stem volume of 1.78cum, the artificial form factor of the tree is:",
+            "options": [
+                "0.1",
+                "0.2",
+                "0.3",
+                "0.4"
+            ],
+            "answer": "0.4"
+        },
+        {
+            "id": "37",
+            "question": "For the absolute form factor, the reference for the base of the cylinder is",
+            "options": [
+                "base of the tree",
+                "breast height",
+                "10% of the height",
+                "20% of the height"
+            ],
+            "answer": "base of the tree"
+        },
+        {
+            "id": "38",
+            "question": "Diameter over bark (dob), diameter under bark (dub), and the bark thickness (tb) are related as",
+            "options": [
+                "dob = dub + tb",
+                "dob = dub - tb",
+                "dob = dub + 2 X tb",
+                "dob = dub - 2 X tb"
+            ],
+            "answer": "dob = dub + 2 X tb"
+        },
+        {
+            "id": "39",
+            "question": "Choose the correct statement",
+            "options": [
+                "For a non-circular section, girth tape over-estimates the sectional area",
+                "For a non-circular section, girth tape under-estimates the sectional area",
+                "For a non-circular section, girth tape correctly-estimates the sectional area",
+                "None of these is a correct statement"
+            ],
+            "answer": "For a non-circular section, girth tape over-estimates the sectional area"
+        },
+        {
+            "id": "40",
+            "question": "A tree has dbh of 25cm. Find the basal area in sq m",
+            "options": [
+                ".049",
+                ".096",
+                ".149",
+                ".195"
+            ],
+            "answer": ".049"
+        },
+        {
+            "id": "41",
+            "question": "The frequency of flyovers is an indicator of",
+            "options": [
+                "spatial resolution",
+                "temporal resolution",
+                "spectral resolution",
+                "radiometric resolution"
+            ],
+            "answer": "temporal resolution"
+        },
+        {
+            "id": "42",
+            "question": "____ is how close the measured values are to the correct value",
+            "options": [
+                "accuracy",
+                "precision",
+                "bias",
+                "variance"
+            ],
+            "answer": "accuracy"
+        },
+        {
+            "id": "43",
+            "question": "\"This sampling employs a simple rule of selecting every k unit starting with a number chosen at random from 1 to k as the random start.\" We are talking about",
+            "options": [
+                "simple random sampling",
+                "systematic sampling",
+                "stratified sampling",
+                "multistage sampling"
+            ],
+            "answer": "systematic sampling"
+        },
+        {
+            "id": "44",
+            "question": "A list of sampling units is called a",
+            "options": [
+                "frame",
+                "window",
+                "sample",
+                "population"
+            ],
+            "answer": "frame"
+        },
+        {
+            "id": "45",
+            "question": "Which of these is correct?",
+            "options": [
+                "Plane surveying takes into account the true shape of the earth and is used for smaller areas (<250 sq km)",
+                "Plane surveying takes into account the true shape of the earth and is used for larger areas (>250 sq km)",
+                "Geodetic surveying takes into account the true shape of the earth and is used for smaller areas (<250 sq km)",
+                "Geodetic surveying takes into account the true shape of the earth and is used for larger areas (>250 sq km)"
+            ],
+            "answer": "Geodetic surveying takes into account the true shape of the earth and is used for larger areas (>250 sq km)"
+        },
+        {
+            "id": "46",
+            "question": "A sampling procedure such that each possible combination of sampling units out of the population has the same chance of being selected is referred to as",
+            "options": [
+                "simple random sampling",
+                "systematic sampling",
+                "stratified sampling",
+                "multistage sampling"
+            ],
+            "answer": "simple random sampling"
+        },
+        {
+            "id": "47",
+            "question": "Bathymetric LiDAR uses",
+            "options": [
+                "far infrared light",
+                "near infrared light",
+                "orange light",
+                "green light"
+            ],
+            "answer": "green light"
+        },
+        {
+            "id": "48",
+            "question": "IMU stands for",
+            "options": [
+                "imperial meterin unit",
+                "inertial metering unit",
+                "imperial measurement unit",
+                "inertial measurement unit"
+            ],
+            "answer": "inertial measurement unit"
+        },
+        {
+            "id": "49",
+            "question": "____ is how close the measured values are to each other",
+            "options": [
+                "accuracy",
+                "precision",
+                "bias",
+                "variance"
+            ],
+            "answer": "precision"
+        },
+        {
+            "id": "50",
+            "question": "The time of flight of LiDAR is 0.00001 sec. Find the distance of the object from the instrument",
+            "options": [
+                "500m",
+                "1000m",
+                "1500m",
+                "2000m"
+            ],
+            "answer": "1500m"
+        },
+        {
+            "id": "51",
+            "question": "A scientist uses a trap to capture a monkey. In the context of the Wildlife Protection Act 1972,",
+            "options": [
+                "the trap is weapon and capturing is hunting",
+                "the trap is not a weapon and capturing is hunting",
+                "the trap is weapon and capturing is not hunting",
+                "the trap is not a weapon and capturing is not hunting"
+            ],
+            "answer": "the trap is weapon and capturing is hunting"
+        },
+        {
+            "id": "52",
+            "question": "In the formula I= PXAXT, P refers to",
+            "options": [
+                "professional pressure",
+                "pollution pressure",
+                "population pressure",
+                "none of the above"
+            ],
+            "answer": "population pressure"
+        },
+        {
+            "id": "53",
+            "question": "Which of these is a deterministic factor?",
+            "options": [
+                "environmental variation",
+                "forest fire",
+                "death rate",
+                "diseases"
+            ],
+            "answer": "death rate"
+        },
+        {
+            "id": "54",
+            "question": "Which of these is a stochastic factor?",
+            "options": [
+                "birth rate",
+                "death rate",
+                "population structure",
+                "forest fire"
+            ],
+            "answer": "forest fire"
+        },
+        {
+            "id": "55",
+            "question": "In the formula I = PXAXT, T refers to",
+            "options": [
+                "transference",
+                "time",
+                "technology",
+                "none of the above"
+            ],
+            "answer": "technology"
+        },
+        {
+            "id": "56",
+            "question": "Which of these form the fire triangle?",
+            "options": [
+                "fire, air, heat",
+                "fire, oxygen, wood",
+                "fuel, air, wood",
+                "fuel, oxygen, heat"
+            ],
+            "answer": "fuel, oxygen, heat"
+        },
+        {
+            "id": "57",
+            "question": "A veterinarian uses an immobilising gun to capture a deer. In the context of the Wildlife Protection Act 1972,",
+            "options": [
+                "the immobilising gun is a weapon and capturing is hunting",
+                "the immobilising gun is not a weapon and capturing is hunting",
+                "the immobilising gun is a weapon and capturing is not hunting",
+                "the immobilising gun is not a weapon and capturing is not hunting"
+            ],
+            "answer": "the immobilising gun is a weapon and capturing is hunting"
+        },
+        {
+            "id": "58",
+            "question": "Invasive climbers increase the probability of which of these fire types?",
+            "options": [
+                "ground fire",
+                "surface fire",
+                "ladder fire",
+                "firestorm"
+            ],
+            "answer": "ladder fire"
+        },
+        {
+            "id": "59",
+            "question": "The acronym HIPPO does not include",
+            "options": [
+                "habitat loss",
+                "habitat enhancement",
+                "over-harvesting",
+                "human over-population"
+            ],
+            "answer": "habitat enhancement"
+        },
+        {
+            "id": "60",
+            "question": "The acronym HIPPO does not include",
+            "options": [
+                "habitat loss",
+                "invasive species",
+                "pollination",
+                "pollution"
+            ],
+            "answer": "pollination"
+        },
+        {
+            "id": "61",
+            "question": "A site was clear-cut. Which of these methods of regeneration cannot be used in a short time-frame?",
+            "options": [
+                "natural regeneration",
+                "artificial regeneration by direct sowing",
+                "artificial regeneration by planting seedlings",
+                "artificial regeneration by transplanting trees"
+            ],
+            "answer": "natural regeneration"
+        },
+        {
+            "id": "62",
+            "question": "Average age at which a tree is considered mature for felling is called as",
+            "options": [
+                "crop age",
+                "felling age",
+                "rotation age",
+                "maturity age"
+            ],
+            "answer": "rotation age"
+        },
+        {
+            "id": "63",
+            "question": "Which of these is not a feature of natural regeneration?",
+            "options": [
+                "low cost",
+                "less requirement of heavy machinery and labour",
+                "preservation of genetic variability",
+                "good quality over genetic improvement"
+            ],
+            "answer": "good quality over genetic improvement"
+        },
+        {
+            "id": "64",
+            "question": "Ring weeding is primarily a feature of",
+            "options": [
+                "natural regeneration",
+                "assisted natural regeneration",
+                "artificial regeneration by direct sowing",
+                "artificial regeneration by planting seedlings"
+            ],
+            "answer": "assisted natural regeneration"
+        },
+        {
+            "id": "65",
+            "question": "The movement of seeds away from their place of seed production into a new area is called",
+            "options": [
+                "translocation",
+                "migration",
+                "dispersal",
+                "drifting"
+            ],
+            "answer": "dispersal"
+        },
+        {
+            "id": "66",
+            "question": "Which of these is not a feature of natural regeneration?",
+            "options": [
+                "seed consumption by insects and seed feeders",
+                "little control over spacing and stand density",
+                "long time needed to regenerate forest",
+                "high requirement of heavy machinery and labour"
+            ],
+            "answer": "high requirement of heavy machinery and labour"
+        },
+        {
+            "id": "67",
+            "question": "Which of these is the correct sequence of a silviculture system?",
+            "options": [
+                "stand tending --> regeneration --> harvesting",
+                "harvesting --> stand tending --> regeneration",
+                "harvesting --> regeneration --> stand tending",
+                "regeneration --> harvesting --> stand tending"
+            ],
+            "answer": "harvesting --> regeneration --> stand tending"
+        },
+        {
+            "id": "68",
+            "question": "Which of these is not an advantage of clear felling system?",
+            "options": [
+                "simple system, easy and efficient",
+                "allows for establishment of a more uniform crop",
+                "increases soil erosion and landslides in hilly areas",
+                "mimics natural processes of fire and large scale insect attacks"
+            ],
+            "answer": "increases soil erosion and landslides in hilly areas"
+        },
+        {
+            "id": "69",
+            "question": "Tending is done during",
+            "options": [
+                "early stage of life",
+                "middle stage of life",
+                "late stage of life",
+                "any stage of life"
+            ],
+            "answer": "any stage of life"
+        },
+        {
+            "id": "70",
+            "question": "Taungya regeneration is",
+            "options": [
+                "natural regeneration",
+                "artificial regeneration with villagers",
+                "artificial regeneration with nomadic tribes",
+                "artificial regeneration with hunters and gatherers"
+            ],
+            "answer": "artificial regeneration with villagers"
+        },
+        {
+            "id": "71",
+            "question": "Trees not putting increment are removed during",
+            "options": [
+                "preparatory felling",
+                "seeding felling",
+                "secondary felling",
+                "final felling"
+            ],
+            "answer": "preparatory felling"
+        },
+        {
+            "id": "72",
+            "question": "For a crop with rotation age 120 years, PB-III would have crop age",
+            "options": [
+                "0-30 years",
+                "30-60 years",
+                "60-90 years",
+                "90-120 years"
+            ],
+            "answer": "30-60 years"
+        },
+        {
+            "id": "73",
+            "question": "Close to nature forestry is a feature of",
+            "options": [
+                "clear felling system",
+                "selection system",
+                "uniform shelterwood system",
+                "group shelterwood system"
+            ],
+            "answer": "selection system"
+        },
+        {
+            "id": "74",
+            "question": "Shelterwood system results in",
+            "options": [
+                "even-aged stand with natural aesthetics",
+                "even-aged stand with artificial aesthetics",
+                "uneven-aged stand with natural aesthetics",
+                "uneven-aged stand with artificial aesthetics"
+            ],
+            "answer": "even-aged stand with natural aesthetics"
+        },
+        {
+            "id": "75",
+            "question": "Inverse-J number diameter curves are seen in",
+            "options": [
+                "clear felling system",
+                "selection system",
+                "uniform shelterwood system",
+                "group shelterwood system"
+            ],
+            "answer": "selection system"
+        },
+        {
+            "id": "76",
+            "question": "Clear felling system is not used for",
+            "options": [
+                "light demanding species",
+                "shade bearer species",
+                "plain areas",
+                "plateau areas"
+            ],
+            "answer": "shade bearer species"
+        },
+        {
+            "id": "77",
+            "question": "Which of these is the correct sequence for shelterwood system",
+            "options": [
+                "preparatory felling --> secondary felling --> seedling felling --> final felling",
+                "preparatory felling --> seedling felling --> secondary felling --> final felling",
+                "preparatory felling --> secondary felling --> seedling felling --> final felling",
+                "preparatory felling --> seeding felling --> secondary felling --> final felling"
+            ],
+            "answer": "preparatory felling --> seeding felling --> secondary felling --> final felling"
+        },
+        {
+            "id": "78",
+            "question": "Felling made with the object of opening the canopy to remove shelter and allow more light for the regenerated crop is",
+            "options": [
+                "preparatory felling",
+                "seedling felling",
+                "secondary felling",
+                "final felling"
+            ],
+            "answer": "secondary felling"
+        },
+        {
+            "id": "79",
+            "question": "In group shelterwood system, the regeneration area is increased",
+            "options": [
+                "centrifugally around gaps",
+                "centripetally around gaps",
+                "parallel to gaps",
+                "perpendicular to gaps"
+            ],
+            "answer": "centrifugally around gaps"
+        },
+        {
+            "id": "80",
+            "question": "Catchment areas are best suited for",
+            "options": [
+                "clear felling system",
+                "selection system",
+                "uniform shelterwood system",
+                "group shelterwood system"
+            ],
+            "answer": "selection system"
+        },
+                {
+                    "id": "81",
+                    "question": "Moving logs from forest to landing area is known as",
+                    "options": [
+                        "marking",
+                        "bucking",
+                        "skidding",
+                        "delimbing"
+                    ],
+                    "answer": "skidding"
+                },
+                {
+                    "id": "82",
+                    "question": "Research plots are shown in ______ marking colour",
+                    "options": [
+                        "yellow",
+                        "blue",
+                        "red",
+                        "white"
+                    ],
+                    "answer": "white"
+                },
+                {
+                    "id": "83",
+                    "question": "Which of these gives the greatest accuracy in constructing face cuts?",
+                    "options": [
+                        "conventional face",
+                        "Humboldt face",
+                        "open face",
+                        "all of these"
+                    ],
+                    "answer": "conventional face"
+                },
+                {
+                    "id": "84",
+                    "question": "Careful selection of trees for harvesting based on a forest management prescription is known as",
+                    "options": [
+                        "surveying",
+                        "cruising",
+                        "marking",
+                        "logging"
+                    ],
+                    "answer": "marking"
+                },
+                {
+                    "id": "85",
+                    "question": "Surveying timberlands to locate and estimate the volumes and grades of standing timber meeting requirements is known as",
+                    "options": [
+                        "surveying",
+                        "cruising",
+                        "marking",
+                        "logging"
+                    ],
+                    "answer": "cruising"
+                },
+                {
+                    "id": "86",
+                    "question": "Trees on boundary are shown in ______ marking colour",
+                    "options": [
+                        "yellow",
+                        "blue",
+                        "red",
+                        "white"
+                    ],
+                    "answer": "red"
+                },
+                {
+                    "id": "87",
+                    "question": "Cutting of timber into logs is known as",
+                    "options": [
+                        "marking",
+                        "bucking",
+                        "skidding",
+                        "delimbing"
+                    ],
+                    "answer": "bucking"
+                },
+                {
+                    "id": "88",
+                    "question": "Which of these gives the greatest saving of lumber?",
+                    "options": [
+                        "conventional face",
+                        "Humboldt face",
+                        "open face",
+                        "all of these"
+                    ],
+                    "answer": "Humboldt face"
+                },
+                {
+                    "id": "89",
+                    "question": "Trees to be retained are shown in ______ marking colour",
+                    "options": [
+                        "yellow",
+                        "blue",
+                        "red",
+                        "white"
+                    ],
+                    "answer": "blue"
+                },
+                {
+                    "id": "90",
+                    "question": "Net growth in initial volume is given by",
+                    "options": [
+                        "V2 - V1",
+                        "V2 - V1 + H + I",
+                        "V2 - V1 + H + 1 + M",
+                        "V2 - V1 + H - 1 - M"
+                    ],
+                    "answer": "V2 - V1 + H + I"
+                },
+                {
+                    "id": "91",
+                    "question": "Shell cracking of seeds is used for which species?",
+                    "options": [
+                        "amla",
+                        "mango",
+                        "ber",
+                        "teak"
+                    ],
+                    "answer": "ber"
+                },
+                {
+                    "id": "92",
+                    "question": "Wet and dry treatment of seeds is used for which species?",
+                    "options": [
+                        "amla",
+                        "mango",
+                        "ber",
+                        "teak"
+                    ],
+                    "answer": "teak"
+                },
+                {
+                    "id": "93",
+                    "question": "Agave is used for",
+                    "options": [
+                        "barbed wire fencing",
+                        "live fencing",
+                        "chain link fencing",
+                        "stone wall fencing"
+                    ],
+                    "answer": "live fencing"
+                },
+                {
+                    "id": "94",
+                    "question": "Which of these is not a laboratory method to determine best days for seed collection?",
+                    "options": [
+                        "maximum dry weight",
+                        "colour of fruits",
+                        "moisture contents of fruits",
+                        "chemical analysis of fat and nitrogen content"
+                    ],
+                    "answer": "colour of fruits"
+                },
+                {
+                    "id": "95",
+                    "question": "Which of these characterises a refractory site?",
+                    "options": [
+                        "soil depth < 10cm",
+                        "soil depth 10-30cm",
+                        "soil depth > 30cm",
+                        "none of these"
+                    ],
+                    "answer": "soil depth < 10cm"
+                },
+                {
+                    "id": "96",
+                    "question": "Which of these is a good storage condition?",
+                    "options": [
+                        "high moisture, high temperature",
+                        "high moisture, low temperature",
+                        "low moisture, high temperature",
+                        "low moisture, low temperature"
+                    ],
+                    "answer": "low moisture, low temperature"
+                },
+                {
+                    "id": "97",
+                    "question": "Which of these prevents water logging?",
+                    "options": [
+                        "sunken bed",
+                        "raised bed",
+                        "flat bed",
+                        "all of these"
+                    ],
+                    "answer": "raised bed"
+                },
+                {
+                    "id": "98",
+                    "question": "Choice of spacing is dependent upon",
+                    "options": [
+                        "objective of plantation",
+                        "site-species matching",
+                        "growth rate",
+                        "all of these"
+                    ],
+                    "answer": "all of these"
+                },
+                {
+                    "id": "99",
+                    "question": "Which of these conserves moisture?",
+                    "options": [
+                        "sunken bed",
+                        "raised bed",
+                        "flat bed",
+                        "all of these"
+                    ],
+                    "answer": "sunken bed"
+                },
+                {
+                    "id": "100",
+                    "question": "Number of seeds in a sample that germinate up to the peak germination period expressed as % is a definition of",
+                    "options": [
+                        "germination number",
+                        "germination percentage",
+                        "germination energy",
+                        "germination power"
+                    ],
+                    "answer": "germination energy"
+                },
+                {
+                    "id": "101",
+                    "question": "The tiger has a home range of several square kilometres, regulates the ecosystem through controlling herbivore populations and trophic cascades, and people come to tiger reserves to watch tigers. Thus, the tiger can be called as",
+                    "options": [
+                        "umbrella species",
+                        "keystone species",
+                        "flagship species",
+                        "all of the above"
+                    ],
+                    "answer": "all of the above"
+                },
+                {
+                    "id": "102",
+                    "question": "Zoo is an example of",
+                    "options": [
+                        "in-situ conservation",
+                        "ex-situ conservation",
+                        "in-situ preservation",
+                        "ex-situ preservation"
+                    ],
+                    "answer": "ex-situ conservation"
+                },
+                {
+                    "id": "103",
+                    "question": "Sustainable harvest of resources falls under the category of",
+                    "options": [
+                        "conservation",
+                        "preservation",
+                        "environmentalism",
+                        "none of the above"
+                    ],
+                    "answer": "conservation"
+                },
+                {
+                    "id": "104",
+                    "question": "We prefer those areas for the creation of a conservation reserve where the level of threat is",
+                    "options": [
+                        "very high",
+                        "medium",
+                        "very low",
+                        "non-existent"
+                    ],
+                    "answer": "medium"
+                },
+                {
+                    "id": "105",
+                    "question": "Captive breeding is an example of",
+                    "options": [
+                        "in-situ conservation",
+                        "ex-situ conservation",
+                        "in-situ preservation",
+                        "ex-situ preservation"
+                    ],
+                    "answer": "ex-situ conservation"
+                },
+                {
+                    "id": "106",
+                    "question": "Which of these is not a forest classification as per the 1894 forest policy?",
+                    "options": [
+                        "protection forest",
+                        "production forest",
+                        "minor forest",
+                        "major forest"
+                    ],
+                    "answer": "major forest"
+                },
+                {
+                    "id": "107",
+                    "question": "In 1931, Van Panchayats were constituted in areas that are now in",
+                    "options": [
+                        "Tamil Nadu",
+                        "Madhya Pradesh",
+                        "West Bengal",
+                        "Uttarakhand"
+                    ],
+                    "answer": "Uttarakhand"
+                },
+                {
+                    "id": "108",
+                    "question": "Planting along canal banks is a part of",
+                    "options": [
+                        "farm forestry",
+                        "community forestry",
+                        "extension forestry",
+                        "agroforestry"
+                    ],
+                    "answer": "extension forestry"
+                },
+                {
+                    "id": "109",
+                    "question": "The fig tree bears fruits in time when animals do not have much access to food. In this context, it would be a good example of",
+                    "options": [
+                        "least concern species",
+                        "keystone species",
+                        "flagship species",
+                        "extinct species"
+                    ],
+                    "answer": "keystone species"
+                },
+                {
+                    "id": "110",
+                    "question": "The elephant has a home range of several square kilometres, regulates the ecosystem by its habit of destruction feeding and people can relate to this animal which is important for conservation. Given this background, the elephant can be called as",
+                    "options": [
+                        "umbrella species",
+                        "keystone species",
+                        "flagship species",
+                        "all of the above"
+                    ],
+                    "answer": "all of the above"
+                }
+
+        
+    ]
